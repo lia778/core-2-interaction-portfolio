@@ -1,0 +1,15 @@
+a:hover {
+    letter-spacing: 2px;
+    padding: 10px;
+  }
+  
+  .nav {
+    padding: 10px;
+  }
+  
+  .title {
+    font-size: 2em;
+    text-transform: uppercase;
+  }
+  
+  
